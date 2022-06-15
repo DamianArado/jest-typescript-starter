@@ -1,0 +1,27 @@
+{
+  "name": "jest-typescript-starter",
+  "version": "0.0.1",
+  "description": "Painless config to quickstart writing unit tests in Jest for TS projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "test:watch": "jest --coverage --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamianArado/jest-typescript-starter.git"
+  },
+  "keywords": [],
+  "author": "Mohammad Humayun Khan <khanhumayun95@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DamianArado/jest-typescript-starter/issues"
+  },
+  "homepage": "https://github.com/DamianArado/jest-typescript-starter#readme",
+  "devDependencies": {
+    "@types/jest": "^23.3.2",
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.2",
+    "typescript": "^3.9.7"
+  }
+}
